@@ -1,0 +1,23 @@
+{
+  "General / Common Questions": [
+    "Please introduce yourself.",
+    "What is your favorite hobby and why?",
+    "Tell me about your family.",
+    "What do you like to do on weekends?"
+  ],
+  "DBS (Diocesan Boys' School)": [
+    "Why do you want to join DBS?",
+    "Tell us about a time you showed leadership.",
+    "Which sport do you enjoy the most?"
+  ],
+  "SPCC (St. Paul's Co-educational College)": [
+    "Describe a book you read recently.",
+    "Do you play any musical instruments?",
+    "How do you handle disagreements with friends?"
+  ],
+  "DGJS (Diocesan Girls' Junior School)": [
+    "What is your favorite subject?",
+    "Tell me about a time you helped someone.",
+    "If you could have a superpower, what would it be?"
+  ]
+}
